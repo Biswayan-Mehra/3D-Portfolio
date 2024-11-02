@@ -47,7 +47,7 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## Contact
 
-For any questions or feedback, please contact [me](mailto:biswayan.mehra.official@gmail.com).
+For any questions or feedback, please contact [biswayan.mehra.official@gmail.com](mailto:biswayan.mehra.official@gmail.com).
 
 ---
 
