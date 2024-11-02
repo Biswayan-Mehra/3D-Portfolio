@@ -1,12 +1,12 @@
 # 3D-Portfolio
 
-Welcome to the 3D-Portfolio project! This project showcases a stunning 3D portfolio website that highlights your work in an interactive and visually appealing way.
+Welcome to my 3D-Portfolio project! This project showcases a stunning 3D portfolio website that highlights my work in an interactive and visually appealing way.
 
 ## Features
 
-- **Interactive 3D Models**: Display your work using interactive 3D models.
+- **Interactive 3D Models**: Display my work using interactive 3D models.
 - **Responsive Design**: Optimized for all devices, ensuring a seamless experience on mobile, tablet, and desktop.
-- **Customizable Themes**: Easily change the look and feel of your portfolio with customizable themes.
+- **Customizable Themes**: Easily change the look and feel of my portfolio with customizable themes.
 - **Fast Loading**: Optimized for performance to ensure fast loading times.
 
 ## Installation
@@ -16,7 +16,7 @@ To get started with the 3D-Portfolio project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/3D-Portfolio.git
+   git clone https://github.com/Biswayan-Mehra/3D-Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
